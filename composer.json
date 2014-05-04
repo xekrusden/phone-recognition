@@ -1,0 +1,20 @@
+{
+    "name": "aotd/phone-recognition",
+    "description": "Phone number from image recognition example",
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Alexey Ashurok",
+            "email": "me@aotd.ru"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "" : "src/"
+        }
+    }
+}
