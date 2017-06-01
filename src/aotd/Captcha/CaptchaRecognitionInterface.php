@@ -1,10 +1,10 @@
-<?php
+    <?php
 
-namespace aotd\Captcha;
+ namespace aotd\Captcha;
 
-use Imagick;
+ use Imagick;
 
-interface CaptchaRecognitionInterface {
+ interface CaptchaRecognitionInterface {
 
     /**
      * Prepare image for segmentation
